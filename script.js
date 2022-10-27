@@ -73,5 +73,3 @@ function createBoard() {
 	
 	return spaces;
 }
-
-console.log(knightMoves([1,1],[6,1]));
